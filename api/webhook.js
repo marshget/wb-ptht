@@ -41,10 +41,10 @@ module.exports = async (req, res) => {
           description: statusMessage, // Tanggal dan waktu dihapus dari deskripsi
           color: 0xFF0000, // Warna merah
           image: {
-            url: 'https://wb-marsh-brandeds-projects.vercel.app/standard_23.gif ' // Ganti dengan URL gambar atau GIF yang diinginkan
+            url: 'https://wb-ptht-marsh-brandeds-projects.vercel.app/standard_23.gif ' // Ganti dengan URL gambar atau GIF yang diinginkan
           },
           thumbnail: {
-            url: 'https://wb-marsh-brandeds-projects.vercel.app/standard_16.gif' // URL logo yang ditampilkan di pojok kanan atas
+            url: 'https://wb-ptht-marsh-brandeds-projects.vercel.app/standard_16.gif' // URL logo yang ditampilkan di pojok kanan atas
           },
           footer: {
             text: `© 2024 Scripting CreativePS | ${formattedDate} (WIB)` // Tanggal dan waktu di bawah
