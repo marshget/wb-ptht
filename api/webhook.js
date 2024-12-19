@@ -37,7 +37,7 @@ module.exports = async (req, res) => {
       content: '',
       embeds: [
         {
-          title: '<a:scvips:1319342452582383616>** PTHT BOTHAX Advanced **<a:scvips:1319342452582383616>',
+          title: '<a:scvips:1319342452582383616>** VIP PTHT BOTHAX **<a:scvips:1319342452582383616>',
           description: statusMessage, // Tanggal dan waktu dihapus dari deskripsi
           color: 0xFF0000, // Warna merah
           image: {
